@@ -1,9 +1,9 @@
 # How to play RavenQuest on Linux using Heroic Games Launcher with Proton
 
 *A guide written by Urdhi for the RavenQuest community :heart:*  
-*1.0.0 2024-11-01*
+*1.0.1 2024-12-30*
 
-![How to play RavenQuest on Linux](.assets/header.png)
+![How to play RavenQuest on Linux](.assets/header.webp)
 
 # Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -144,6 +144,9 @@ For easier access on SteamDeck, you can add RavenQuest to your Steam Library:
 
 
 ---
+
+
+Visit my community page [https://ravenquest.de](https://ravenquest.de)
 
 *I hope this guide helps you and makes it easy for you to enjoy this fantastic game on Linux. :penguin: :heart:  
 If you have any questions, please feel free to contact me in the Discord!*
