@@ -1,7 +1,17 @@
 # How to play RavenQuest on Linux using Heroic Games Launcher with Proton
 
 *A guide written by Urdhi for the RavenQuest community :heart:*  
-*1.0.1 2024-12-30*
+*1.0.2 2025-03-14*
+
+
+***:bangbang: IMPORTANT NOTICE :bangbang:***
+
+**Due to the implementation of BattlEye, playing on Mac or Linux using Wine/Proton is currently not possible due to compatibility issues!**
+At this time, the game can only be played on Windows or within a virtual machine.
+The team is actively working on a native Mac client (and hopefully one for Linux as well :heart:).
+
+***:bangbang: IMPORTANT NOTICE :bangbang:***
+
 
 ![How to play RavenQuest on Linux](.assets/header.webp)
 
